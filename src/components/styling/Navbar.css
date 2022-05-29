@@ -1,0 +1,26 @@
+.over {
+    background-color: #ffffff;
+    /* background-color: blue; */
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border-bottom: 5px light lightslategray
+}
+.son{
+    margin-left: 790px;
+    width: 470px;
+    display: flex;
+    justify-content: space-between;
+}
+.navs {
+    justify-content: center;
+    border: none;
+    width: 86.4px;
+    height: 32px;
+    background-color: #ffffff;
+    border-radius: 4px;
+}
+
+.navs:hover{
+    background-color: #FF5C00;
+}

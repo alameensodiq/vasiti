@@ -1,0 +1,7 @@
+.under {
+    height: 50px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

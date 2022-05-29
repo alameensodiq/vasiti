@@ -1,0 +1,45 @@
+.men {
+    display: flex;
+}
+
+.don{
+    float: right;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 50%;
+}
+
+.mainamaze{
+    margin-top: 100px;
+}
+
+
+.amaze{
+    height: 180px;
+    width: 586px;
+    font-family: Inter;
+   font-size: 15px;
+   font-weight: 700;
+   letter-spacing: -0.02em;
+   text-align: left;
+   margin-left: 110px ;
+
+}
+
+.boll{
+    height: 62px;
+    width: 489px;
+    margin-left: 110px ;
+    text-align: left;
+}
+
+.circle{
+    height: 611px;
+    width: 711px;
+    position: absolute;
+    margin-left: 510px;
+    top: 209px;
+    border-radius: 100%;
+    background-color:  #FFF8F5;
+
+}

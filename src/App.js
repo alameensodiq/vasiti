@@ -1,23 +1,21 @@
-import logo from './logo.svg';
+
 import './App.css';
+import First from './components/First';
+import Fourth from './components/Fourth';
+import Navbar from './components/Navbar';
+import Second from './components/Second';
+import Undernav from './components/Undernav';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <Navbar/>
+     <hr style={{borderTop: '1px solid lightgrey'}}/>
+     <Undernav/>
+     <hr style={{borderTop: '1px thin lightgrey'}}/>
+     <First/>
+     <Second/>
+     <Fourth/>
     </div>
   );
 }

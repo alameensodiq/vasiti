@@ -1,0 +1,56 @@
+.wow{
+height: 436px;
+width: 1440px;
+left: 0px;
+top: 690px;
+border-radius: 0px;
+position: absolute;
+background: #222222;
+display: flex;
+}
+
+
+.sum{
+    /* border-radius: ; */
+    height: 400px;
+    width: 420px;
+    margin-top: 71px;
+    top: 40px;
+    border-radius: 100%;
+    margin-left: 120px;
+    background-color:  rgb(56, 57, 58);
+}
+
+.real {
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 85px;
+}
+
+
+.catch{
+    width: 424px;
+    height: 410.2px;
+    margin-left: 340px;
+    margin-top: 40px;
+}
+
+
+.fam {
+    text-align: left;
+    color: white;
+}
+
+.but {
+    background: transparent;
+    color: white;
+    margin-right: 350px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.experience {
+    color: white;
+    margin-right: 230px;
+    
+}
